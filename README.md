@@ -1,11 +1,11 @@
 ---
 description: LA PRIMERA VENTA DE UN INMUEBLE 100% MEDIANTE BLOCKCHAIN EN LA ARGENTINA
-cover: .gitbook/assets/tokenfit-linkedin-portada-1900x400px.jpeg
-coverY: 0
 layout: editorial
 ---
 
 # Tokenfit
+
+![](.gitbook/assets/tokenfit-facebook-portada-1958x745px.jpeg)
 
 ## Introducción
 
