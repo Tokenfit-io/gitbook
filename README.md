@@ -166,9 +166,9 @@ La documentación del proceso es almacenada mediante el servicio IPFS (peer-to-p
 
 ## **El equipo**
 
-|                                                                                                                                                                                  |                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://lh4.googleusercontent.com/4tWPRodRikzecJMu6stwGiV9-xillTH089lymsDfvZbdEzvhJbJImZ\_PWsBCdvtf1gzZlb3uIxb2Q3uUiaQjr6aihkQdwUEbPzjrkfzBfGivgmXiMe0IsYZyUlmfwkfzumeW7P01) | Estudio jurídico/contable, integrado por profesionales del derecho y las ciencias económicas, con amplia experiencia y especialización en temas empresarios |
-| ![](.gitbook/assets/image.png)                                                                                                                                                   | Tecnología de programación sustentable para finanzas                                                                                                        |
+|                                                      |                                                                                                                                                             |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](.gitbook/assets/logo-iparraguirre-cicchitti.jpg) | Estudio jurídico/contable, integrado por profesionales del derecho y las ciencias económicas, con amplia experiencia y especialización en temas empresarios |
+| ![](.gitbook/assets/image.png)                       | Tecnología de programación sustentable para finanzas                                                                                                        |
 
 ![](.gitbook/assets/equipo.png)
