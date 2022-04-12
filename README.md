@@ -65,7 +65,7 @@ Somos argentinos, profesionales innovadores y apasionados colaborando con el cre
 
 En la primera etapa del proyecto, nos proponemos realizar una experiencia única en donde realizaremos la venta completa de un inmueble todo gestionado íntegramente por nuestra DApp, incluyendo la trazabilidad de todos los documentos, el estado de la transacción y el movimiento de fondos de una manera segura, transparente y automatizada mediante el uso de Smart Contrats y NFTs.&#x20;
 
-Paso a paso:
+## Paso a paso
 
 ### **Instancia de DIGITALIZACIÓN**
 
