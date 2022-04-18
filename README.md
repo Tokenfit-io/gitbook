@@ -98,7 +98,7 @@ En la primera etapa del proyecto, nos proponemos realizar una experiencia única
 
 ## **Diagrama del proceso**
 
-![](.gitbook/assets/diagrama.png)
+![](.gitbook/assets/proceso.png)
 
 ## **NFT coleccionable**
 
@@ -146,7 +146,7 @@ Tokenfit hoy se propone materializar la primera venta de un inmueble (transferen
 
 ![](.gitbook/assets/roadmap.png)
 
-## **Debajo del capot**
+## **Debajo del capot** <a href="#tecnologias" id="tecnologias"></a>
 
 La DApp TOKENFIT está diseñada y construida utilizando los estándares de vanguardia en el mercado. Las tecnologías de cadenas de bloques son un ámbito de innovación continua en donde todos los días se crean nuevas soluciones. Nuestro equipo ha diseñado una arquitectura que implementa Smart Contracts, Tokens y NFTs para modelar el flujo de todo el proyecto.&#x20;
 
@@ -156,15 +156,15 @@ Una capa externa (FrontEnd) desarrollada en Vue.js es la encargada de interactua
 
 La documentación del proceso es almacenada mediante el servicio IPFS (peer-to-peer hypermedia protocol) y los accesos son gestionados utilizando validaciones de Wallets y Roles.
 
+![](.gitbook/assets/Tecnologias.png)
+
 ## **Diagrama de componentes**
 
 ![](.gitbook/assets/componentes.png)
 
-## **Tecnologías**
-
-![](.gitbook/assets/tecnologias.png)
-
 ## **El equipo**
+
+Somos un  equipo de desarrolladores y analistas legales argentinos, apasionados por impulsar la tecnología blockchain en Real Estate. Nuestro propósito es generar la primera experiencia de subasta de un inmueble íntegramente en la blockchain, para que sea un antecedente al crecimiento de nuevos modelos de negocio descentralizados, rápidos y seguros en nuestro país y el mundo entero.
 
 |                                                      |                                                                                                                                                             |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
