@@ -160,11 +160,13 @@ La documentación del proceso es almacenada mediante el servicio IPFS (peer-to-p
 
 ## **Diagrama de componentes**
 
-![](.gitbook/assets/componentes.png)
+![](<.gitbook/assets/componentes (1).png>)
 
 ## **El equipo**
 
-Somos un  equipo de desarrolladores y analistas legales argentinos, apasionados por impulsar la tecnología blockchain en Real Estate. Nuestro propósito es generar la primera experiencia de subasta de un inmueble íntegramente en la blockchain, para que sea un antecedente al crecimiento de nuevos modelos de negocio descentralizados, rápidos y seguros en nuestro país y el mundo entero.
+Somos un  equipo de desarrolladores y analistas legales argentinos, apasionados por impulsar la tecnología blockchain en Real Estate.&#x20;
+
+Nuestro propósito es generar la primera experiencia de subasta de un inmueble íntegramente en la blockchain, para que sea un antecedente al crecimiento de nuevos modelos de negocio descentralizados, rápidos y seguros en nuestro país y el mundo entero.
 
 |                                                      |                                                                                                                                                             |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
