@@ -3,19 +3,19 @@ description: LA PRIMERA VENTA DE UN INMUEBLE 100% MEDIANTE BLOCKCHAIN EN LA ARGE
 layout: editorial
 ---
 
-# Tokenfit
+# TOKENFIT
 
 ![](.gitbook/assets/tokenfit-facebook-portada-1958x745px.jpeg)
 
 ## Introducción
 
-### ¿Qué es el proyecto Tokenfit?
+### ¿Qué es el proyecto TOKENFIT?
 
-El proyecto investiga la Tokenización de activos y su venta utilizando tecnología blockchain en el marco de la normativa argentina. Tokenfit quiere impulsar la adopción de tecnología blockchain acelerando la conjunción del sector de Real Estate con los nuevos modelos de negocios basados en Web 3.
+El proyecto investiga la Tokenización de activos y su venta utilizando tecnología blockchain en el marco de la normativa argentina. TOKENFIT quiere impulsar la adopción de tecnología blockchain acelerando la conjunción del sector de Real Estate con los nuevos modelos de negocios basados en Web 3.
 
 TOKENFIT realizará la primera experiencia de venta de un inmueble en Argentina utilizando íntegramente tecnología Blockchain. Esto generará precedentes en un camino sin explorar, probando límites y necesidades del sistema jurídico y tecnológico argentino con el objetivo de contribuir a una adecuada regulación para el desarrollo de nuevos modelos de negocios.&#x20;
 
-En su primera etapa, Tokenfit es una DApp (Descentralized App) de desarrollo propio que permite realizar la venta de un departamento íntegramente con tecnología Blockchain, garantizando la legalidad del proceso mediante el uso de Smart Contracts y NFTs.&#x20;
+En su primera etapa, TOKENFIT es una DApp (Descentralized App) de desarrollo propio que permite realizar la venta de un departamento íntegramente con tecnología Blockchain, garantizando la legalidad del proceso mediante el uso de Smart Contracts y NFTs.&#x20;
 
 Esta experiencia contará con 4 instancias principales: digitalización, inscripción, subasta y escritura. Los interesados en adquirir el inmueble podrán realizar su pre-inscripción mediante nuestra DApp y participar de la subasta. El ganador accede a la fase de escritura.&#x20;
 
@@ -23,7 +23,7 @@ Las transferencias de los fondos serán automatizadas y aseguradas por los Smart
 
 Concluida la subasta, el token que representa al inmueble se convertirá en un NFT coleccionable propiedad del comprador.&#x20;
 
-La Prueba de Concepto (POC - Proof Of Concept) para la venta mediante subasta será una experiencia de única vez y los datos obtenidos darán inicio al desarrollo de las próximas etapas de Tokenfit como una plataforma orientada a la tokenización.
+La Prueba de Concepto (POC - Proof Of Concept) para la venta mediante subasta será una experiencia de única vez y los datos obtenidos darán inicio al desarrollo de las próximas etapas de TOKENFIT como una plataforma orientada a la tokenización.
 
 ## Aviso Legal
 
@@ -163,6 +163,8 @@ La documentación del proceso es almacenada mediante el servicio IPFS (peer-to-p
 ![](<.gitbook/assets/componentes (1).png>)
 
 ## **El equipo**
+
+TOKENFIT propone revolucionar los modelos tradicionales de la industria inmobiliaria mediante la tecnología blockchain; transparente y segura.
 
 Somos un  equipo de desarrolladores y analistas legales argentinos, apasionados por impulsar la tecnología blockchain en Real Estate.&#x20;
 

@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Tokenfit](README.md)
+* [TOKENFIT](README.md)
