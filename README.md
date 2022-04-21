@@ -71,7 +71,6 @@ En la primera etapa del proyecto, nos proponemos realizar una experiencia única
 
 ### **Instancia de DIGITALIZACIÓN**
 
-* Duración: 30 días
 * Actores: Escribano + Vendedor&#x20;
   *   El escribano autenticado mediante su Wallet carga los documentos, las aprobaciones necesarias para realizar la venta y los datos para que el vendedor reciba el pago. Nuestra DApp registra todo en la BlockChain BNB Chain (ex Binance Smart Chain)
 
@@ -79,20 +78,17 @@ En la primera etapa del proyecto, nos proponemos realizar una experiencia única
 
 ### **Instancia de INSCRIPCIÓN**
 
-* Duración: 5 días
 * Actores: Compradores interesados + Escribano&#x20;
   * Los interesados en participar de la subasta realizan un OnBoarding de sus datos en nuestra DApp y un KyC inicial. Las wallets validadas y aceptadas por el escribano en esta instancia serán las que podrán acceder a la subasta.
 
 ### **Instancia de SUBASTA**
 
-* Duración: 5 Horas
 * Actores: Compradores registrados&#x20;
   * Las wallets registradas durante la Inscripción podrán participar del proceso de subasta mediante la transferencia de la seña en USDT utilizando nuestra DApp. Nuestros Smart Contracts resguardarán siempre la mejor oferta devolviendo las inferiores automáticamente a los oferentes.&#x20;
   * Cumplido el tiempo de Subasta, la oferta mayor, previa transferencia total de los fondos y gastos de transferencia, recibirá un NFT que le dará acceso a la etapa de Escrituración.
 
 ### **Instancia de ESCRITURACIÓN**
 
-* Duración: 5 días&#x20;
 * Actores: Comprador ganador + Escribano&#x20;
   * El ganador de la subasta recibirá un token NFT que le permitirá acceder a la etapa de escrituración.&#x20;
   * Deberá ingresar toda la información necesaria para validar y completar los requisitos legales de la venta y el escribano realizará las verificaciones e informes necesarios.&#x20;
