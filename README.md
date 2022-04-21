@@ -33,31 +33,33 @@ El proyecto TOKENFIT consiste en una prueba de concepto, de manera que es de car
 
 Al tratarse de una prueba de concepto sin antecedente conocido de un proyecto similar en la República Argentina, al menos por quienes han desarrollado el presente, TOKENFIT no garantiza que los resultados reales sean consistentes con el proyecto planteado. Los organismos administrativos que resulten competentes en el desarrollo de la prueba de concepto no han examinado la información incluida en este documento. Es por ello que cualquier obstáculo u observación que pudiera formularse en cualquiera de las etapas de su ejecución obedece a que el mismo se encuentra en etapa experimental y no es responsabilidad de los desarrolladores. Este documento no implica oferta ni invitación a contratar, no obliga a TOKENFIT con los destinatarios. En el caso de la subasta, el acuerdo se realizará entre el titular registral del inmueble y el adquirente en subasta, se regirá exclusivamente por documentos separados y por los términos y condiciones que figuran en el sitio web tokenfit.io. En caso de que exista contradicción y/o inconsistencia entre lo establecido en este litepaper y los términos y condiciones del sitio web, prevalecerán estos últimos. La tecnología blockchain al igual que los avances de la tecnología en general pueden presentar riesgos e incertidumbres, la volatilidad de algunas criptomonedas y otras condiciones de esta industria hacen aconsejable que toda persona que esté dispuesta a invertir y/o participar de experiencias en el mundo blockchain, deba informarse previamente de los riesgos y costes asociados. TOKENFIT no se hace responsable por variaciones y/o pérdidas en el valor de criptoactivos que sean utilizados como seña y/o como pago total de la oferta, fees u otros. La DApp que desarrollará TOKENFIT puede variar con relación a lo descrito en este litepaper o bien puede fracasar por varias razones, entre ellas la falta de financiación, la falta de éxito comercial y factores externos, entre otros, sin que la presente pueda ser considerada como una descripción taxativa.
 
-## **Sobre qué es BlockChain**
+## **Glosario**
 
 ### Blockchain
 
-Es una tecnología basada en una cadena de bloques con una base de datos pública y distribuida en la que se registran de forma segura las transacciones que se van realizando en la red.
+Es una tecnología basada en una cadena de bloques con **una base de datos pública y distribuida** en la que se registran de forma segura las transacciones que se van realizando en la red.
 
 ### **Tokens**
 
-Un token es la representación digital de un objeto físico o digital que tiene valor en cierto contexto o para determinada comunidad, aunque su propia materialidad no contenga ese valor en sí. El funcionamiento del token depende de una blockchain y una criptomoneda que permitan desarrollar el token. Además requiere de un contrato o programación que deje en claro todo lo que se puede hacer y no se puede hacer con el token.
+Un token es **la representación digital de un objeto físico o digital que tiene valor** en cierto contexto o para determinada comunidad, aunque su propia materialidad no contenga ese valor en sí. El funcionamiento del token depende de una blockchain y una criptomoneda que permitan desarrollar el token. Además requiere de un contrato o programación que deje en claro todo lo que se puede hacer y no se puede hacer con el token.
 
 ### Web 3
 
-Tercera generación de Internet donde los sitios web y las aplicaciones podrán procesar información de una manera inteligente similar a la humana a través de IA y tecnología de contabilidad descentralizada (DLT por sus siglas en inglés). Los datos se interconectan de manera descentralizada, además los usuarios y las máquinas podrán interactuar con estos datos.
+**Tercera generación de Internet** donde los sitios web y las aplicaciones podrán procesar información de una manera inteligente similar a la humana a través de IA y tecnología de contabilidad descentralizada (DLT por sus siglas en inglés). Los datos se interconectan de manera descentralizada, además los usuarios y las máquinas podrán interactuar con estos datos.
 
 ### **Wallets**
 
-El término wallet hace referencia a una cartera, billetera o monedero virtual en el que podemos gestionar nuestras criptomonedas. Siendo claros, es un espacio donde guardas tus claves, de las cuales puedes acceder a la blockchain donde se registran tus cripto.
+Hace referencia a **una billetera o monedero virtual en el que podemos gestionar nuestras criptomonedas**. Siendo claros, es un espacio donde guardas tus claves, de las cuales puedes acceder a la blockchain donde se registran tus cripto.
 
 ## **Propósito**
 
 Queremos ser precursores e incentivar en nuestro país la adopción de tecnología blockchain. Transparencia, descentralización y accesibilidad son objetivos con los que queremos colaborar.
 
-TOKENFIT es la primera experiencia de venta de un inmueble en la Argentina íntegramente utilizando tecnología blockchain. Generar estos primeros antecedentes es el inicio correcto para abrir nuevos caminos en la modernización.
+> TOKENFIT es la primera **experiencia de venta de un inmueble en la Argentina utilizando tecnología blockchain**, íntegramente.&#x20;
 
-Esta DApp de Tokenización desarrollada íntegramente por nuestro equipo es el primer paso en un segmento nuevo, sin precedente en esta modalidad, dirigido hacia una nueva economía de los bienes en donde las partes puedan realizar operaciones de forma segura y eficiente.
+Generar estos primeros antecedentes es el inicio correcto para abrir nuevos caminos en la modernización.
+
+Esta **DApp de Tokenización** desarrollada íntegramente por nuestro equipo es el primer paso en un segmento nuevo, sin precedente en esta modalidad, dirigido hacia una nueva economía de los bienes en donde las partes puedan realizar operaciones de forma segura y eficiente.
 
 Somos argentinos, profesionales innovadores y apasionados colaborando con el crecimiento sin fronteras de la tecnología en nuestro país y el mundo entero.
 
@@ -110,7 +112,7 @@ En la compra de un inmueble participan múltiples intermediarios y se llevan a c
 
 Hoy resulta posible trasladar la liquidez del mercado financiero al Real Estate mediante la tokenización. Se puede generar un token y asociar el valor del inmueble con ese token. Luego ese token se comercializa en la blockchain y puede ser adquirido por cualquier persona en cualquier parte del mundo, cualquier día de la semana, a cualquier hora. A esto lo llamamos “efecto token”. El mundo avanza en este sentido.
 
-Queremos que Argentina se incorpore a la lista de los países que adhieren y fomentan el efecto token o la token economy.
+Queremos que Argentina se incorpore a la lista de los países que adhieren y fomentan **el efecto token** o la **token economy**.
 
 ## **La experiencia desde lo legal**
 
@@ -138,7 +140,7 @@ Se trata de una compañía con un fuerte espíritu innovador que ha incorporado 
 
 ## **Ficha del inmueble**
 
-(Pendiente)
+Pronto te contaremos cual es el inmueble que nuestro Sponsor eligió para realizar la experiencia de venta TOKENFIT.
 
 ## **Roadmap**
 
@@ -156,7 +158,7 @@ Una capa externa (FrontEnd) desarrollada en Vue.js es la encargada de interactua
 
 La documentación del proceso es almacenada mediante el servicio IPFS (peer-to-peer hypermedia protocol) y los accesos son gestionados utilizando validaciones de Wallets y Roles.
 
-![](.gitbook/assets/Tecnologias.png)
+![](.gitbook/assets/tecnologia.png)
 
 ## **Diagrama de componentes**
 
@@ -175,4 +177,6 @@ Nuestro propósito es generar la primera experiencia de subasta de un inmueble �
 | ![](.gitbook/assets/logo-iparraguirre-cicchitti.jpg) | Estudio jurídico/contable, integrado por profesionales del derecho y las ciencias económicas, con amplia experiencia y especialización en temas empresarios |
 | ![](.gitbook/assets/image.png)                       | Tecnología de programación sustentable para finanzas                                                                                                        |
 
-![](.gitbook/assets/equipo.png)
+### Los cerebros
+
+![](<.gitbook/assets/equipo (2).png>)
