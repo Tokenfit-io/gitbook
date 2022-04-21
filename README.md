@@ -144,7 +144,7 @@ Tokenfit hoy se propone materializar la primera venta de un inmueble (transferen
 
 ![](.gitbook/assets/roadmap.png)
 
-## **Debajo del capot** <a href="#tecnologias" id="tecnologias"></a>
+## **La tecnología TOKENFIT** <a href="#tecnologias" id="tecnologias"></a>
 
 La DApp TOKENFIT está diseñada y construida utilizando los estándares de vanguardia en el mercado. Las tecnologías de cadenas de bloques son un ámbito de innovación continua en donde todos los días se crean nuevas soluciones. Nuestro equipo ha diseñado una arquitectura que implementa Smart Contracts, Tokens y NFTs para modelar el flujo de todo el proyecto.&#x20;
 
@@ -167,6 +167,8 @@ TOKENFIT propone revolucionar los modelos tradicionales de la industria inmobili
 Somos un  equipo de desarrolladores y analistas legales argentinos, apasionados por impulsar la tecnología blockchain en Real Estate.&#x20;
 
 Nuestro propósito es generar la primera experiencia de subasta de un inmueble íntegramente en la blockchain, para que sea un antecedente al crecimiento de nuevos modelos de negocio descentralizados, rápidos y seguros en nuestro país y el mundo entero.
+
+### Los pioneros
 
 |                                                      |                                                                                                                                                             |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
