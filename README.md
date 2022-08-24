@@ -3,7 +3,9 @@ description: LA PRIMERA VENTA DE UN INMUEBLE 100% MEDIANTE BLOCKCHAIN EN LA ARGE
 layout: editorial
 ---
 
-# TOKENFIT
+# TOKENFIT - ETAPA 1
+
+
 
 ![](.gitbook/assets/tokenfit-facebook-portada-1958x745px.jpeg)
 
@@ -13,7 +15,7 @@ layout: editorial
 
 El proyecto investiga la Tokenización de activos y su venta utilizando tecnología blockchain en el marco de la normativa argentina. TOKENFIT quiere impulsar la adopción de tecnología blockchain acelerando la conjunción del sector de Real Estate con los nuevos modelos de negocios basados en Web 3.
 
-TOKENFIT realizará la primera experiencia de venta de un inmueble en Argentina utilizando íntegramente tecnología Blockchain. Esto generará precedentes en un camino sin explorar, probando límites y necesidades del sistema jurídico y tecnológico argentino con el objetivo de contribuir a una adecuada regulación para el desarrollo de nuevos modelos de negocios.&#x20;
+TOKENFIT <mark style="color:blue;">**ETAPA 1**</mark> realizará la primera experiencia de venta de un inmueble en Argentina utilizando íntegramente tecnología Blockchain. Esto generará precedentes en un camino sin explorar, probando límites y necesidades del sistema jurídico y tecnológico argentino con el objetivo de contribuir a una adecuada regulación para el desarrollo de nuevos modelos de negocios.&#x20;
 
 En su primera etapa, TOKENFIT es una DApp (Descentralized App) de desarrollo propio que permite realizar la venta de un departamento íntegramente con tecnología Blockchain, garantizando la legalidad del proceso mediante el uso de Smart Contracts y NFTs.&#x20;
 
@@ -53,9 +55,11 @@ Hace referencia a **una billetera o monedero virtual en el que podemos gestionar
 
 ## **Propósito**
 
+**ETAPA 1**
+
 Queremos ser precursores e incentivar en nuestro país la adopción de tecnología blockchain. Transparencia, descentralización y accesibilidad son objetivos con los que queremos colaborar.
 
-> TOKENFIT es la primera **experiencia de venta de un inmueble en la Argentina utilizando tecnología blockchain**, íntegramente.&#x20;
+> TOKENFIT <mark style="color:blue;">ETAPA 1</mark> es la primera **experiencia de venta de un inmueble en la Argentina utilizando tecnología blockchain**, íntegramente.&#x20;
 
 Generar estos primeros antecedentes es el inicio correcto para abrir nuevos caminos en la modernización.
 
@@ -140,7 +144,7 @@ Pronto te contaremos cual es el inmueble que nuestro Sponsor eligió para realiz
 
 ## **Roadmap**
 
-Tokenfit hoy se propone materializar la primera venta de un inmueble (transferencia dominial) utilizando íntegramente tecnología de cadena de bloques. En sus siguientes etapas, luego de capitalizar la experiencia generada, nuestro objetivo es evolucionar nuestra DApp dirigiéndonos a producir una plataforma de servicios para el sector de Real Estate:
+Tokenfit <mark style="color:blue;">ETAPA 1</mark> hoy se propone materializar la primera venta de un inmueble (transferencia dominial) utilizando íntegramente tecnología de cadena de bloques. En sus siguientes etapas, luego de capitalizar la experiencia generada, nuestro objetivo es evolucionar nuestra DApp dirigiéndonos a producir una plataforma de servicios para el sector de Real Estate:
 
 ![](.gitbook/assets/roadmap.png)
 
@@ -177,4 +181,4 @@ Nuestro propósito es generar la primera experiencia de subasta de un inmueble �
 
 ### Los cerebros
 
-![](<.gitbook/assets/equipo (2).png>)
+<figure><img src=".gitbook/assets/equipo.png" alt=""><figcaption></figcaption></figure>
