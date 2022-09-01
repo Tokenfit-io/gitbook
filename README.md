@@ -132,11 +132,15 @@ Al momento de la redacción de este litepaper, existen tres proyectos de ley que
 
 ## **Nuestro Sponsor**
 
-Próximamente te contaremos quien es nuestro Sponsor y cuales son las características del inmueble con el que realizaremos la experiencia.
+<figure><img src=".gitbook/assets/Logo-Grupo-AM-+-international-curvas-engrosado.gif" alt=""><figcaption></figcaption></figure>
 
-La experiencia cuenta con un importante sponsor que se suma al proyecto TOKENFIT y aportará el primer inmueble que será subastado utilizando nuestra DApp blockchain.&#x20;
+En agosto de 2022 se incorporó Grupo AM Real Estate como Sponsor de Tokenfit en la Etapa 1 del roadmap: la prueba de concepto de uso de la blockchain para Real Estate.
 
-Se trata de una compañía con un fuerte espíritu innovador que ha incorporado a la tecnología como herramienta clave en sus proyectos. Con muchos años de trayectoria y un sinfín de desarrollos exitosos en el país y en el exterior, se suma a TOKENFIT para aunar objetivos y que juntos nos adentremos en la vanguardia de los modelos de Real State en la Argentina.
+Grupo AM Real Estate es la evolución de una empresa fundada en 1993 con la filosofía de crear alta calidad de servicio a partir de la excelencia en los recursos humanos. Iniciada y dirigida por Ari Milsztejn, hoy guiada hacia lo tecnológico y disruptivo por Yoel Milsztejn con una estratégica visión de futuro.
+
+Grupo AM surgió en el sector inmobiliario y hoy ha expandido su operatoria al mundo con nuevas áreas de trabajo como arquitectura, administración de consorcios, nuevos proyectos y fideicomisos, en sinergia con Ambient Desarrollos y Consultoría, G70 Desarrollos Inmobiliarios, Ploa Arquitectos y Custom Invest.
+
+Grupo AM Real Estate tiene sede en Rosario y expande sus desarrollos inmobiliarios en Paraguay y en Uruguay.
 
 ## **Ficha del inmueble**
 
